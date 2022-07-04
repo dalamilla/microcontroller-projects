@@ -1,6 +1,6 @@
 # Traffic Lights
 
-Traffic ligths simulator.
+Traffic lights simulator.
 
 # Parts
 
